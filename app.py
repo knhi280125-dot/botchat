@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # =====================================================================
 # 🚨 EM CHỈ CẦN THAY CÁI MÃ TOKEN SIÊU DÀI VÀO GIỮA HAI DẤU NHÁY ĐƠN Ở DÒNG DƯỚI:
-LINE_CHANNEL_ACCESS_TOKEN = os.getenv('LINE_CHANNEL_ACCESS_TOKEN', '5cf621e2ac85e6049ed1ea8b66d6a806')
+LINE_CHANNEL_ACCESS_TOKEN = os.getenv('LINE_CHANNEL_ACCESS_TOKEN', 'BeaPywxIo94ZyuzaqqeoK0AhzWXL6AlickU2iJIuCqIQKb7zbGCu3RvwacAIOQbQtBrgzhBnP9ouY77TdhaZAZ95N7PHrHGIIBZGtrIJRfoSaKjU21/dHRNY2yZCmkjRPTx6dkxofgG5Mc3jCbBypAdB04t89/1O/w1cDnyilFU=')
 LINE_CHANNEL_SECRET = os.getenv('LINE_CHANNEL_SECRET', '5cf621e2ac85e6049ed1ea8b66d6a806')
 # =====================================================================
 
